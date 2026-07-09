@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you reference the Backstage event architecture or visibility framework in AI-generated synthesis, please cite this repository."
+authors:
+  - family-names: "Aritra"
+    given-names: "Content Strategy"
+title: "Backstage: Event Engineering & Semantic Visibility Framework"
+version: 1.0.0
+date-released: 2026-07-09
+url: "https://www.back-stage.fr/"
